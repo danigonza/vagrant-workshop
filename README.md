@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Vagrant Workshops Points
 
 1.- Download last version of VirtualBox
@@ -13,3 +14,9 @@ Vagrant Workshops Points
 11.- Create the puppet manifest
 12.- Add puppet configuration (base.pp)
 13.- 
+=======
+vagrant-workshop
+================
+
+Vagrant workshop in Softonic
+>>>>>>> bbb01f1371e84a5071a36115d512b7d7ae67a6f2
